@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("RoundedCorona-Pre1.8")]
+[assembly: AssemblyTitle("RoundedCorona")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RoundedCorona-Pre1.8")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyProduct("RoundedCorona")]
+[assembly: AssemblyCopyright("Copyright © Arthur \"Arekva\" 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("f4684e5d-e226-46ed-a42c-286e7b612b68")]
+[assembly: Guid("154a967f-b2f6-4b13-b58d-cd53938a5b99")]
 
 // Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 //
